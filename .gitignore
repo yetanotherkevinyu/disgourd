@@ -22,3 +22,6 @@
 
 # Minio
 data/*
+
+# App Executable
+discord_app
